@@ -1,16 +1,20 @@
-## Hi there 👋
+# IFTIKHAR
+### Cybersecurity Learner | SOC & Responsible Pentesting
 
-<!--
-**princexcloud55-sys/princexcloud55-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building practical cybersecurity skills with a focus on security operations, log analysis, and authorized penetration testing.
 
-Here are some ideas to get you started:
+## Focus Areas
+- SOC fundamentals and security monitoring
+- Log analysis and incident investigation
+- Ethical penetration testing in authorized labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You’ll Find Here
+Hands-on lab notes, security write-ups, and small projects as I build and document them. Each write-up focuses on what I tested, what I found, and how to improve it.
+
+## My Principles
+- Test only in environments where I have permission
+- Explain findings clearly and include practical mitigations
+- Keep learning through hands-on work
+
+## Connect
+Feel free to explore my repositories and share feedback.
